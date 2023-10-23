@@ -1,0 +1,27 @@
+body {background-color: rgb(0, 0, 0);}
+h1 {font-size: 200%;
+text-align: center;
+color: rgb(255, 255, 255);}
+
+#i1 {margin-left: 10%;
+    border-width: 15%;
+    border-color: black;
+}
+
+h2 {font-size: 160%;
+text-align: center;
+color: rgb(255, 255, 255);
+}
+#i2 {margin-left: 10%;
+    border-width: 20%;
+}
+ h3 {font-size: 160%;
+text-align: center;
+color: rgb(255, 255, 255);
+}
+#i3 {margin-left: 10%;
+}
+
+#i1 {width: 80%;}
+#i2 {width: 80%;}
+#i3 {width: 80%;}
